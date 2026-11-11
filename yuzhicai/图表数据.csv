@@ -1,0 +1,12 @@
+chart,metric,value,unit,sample,question_or_scope,source_url,limitation
+认知,主观认知率,85.0,%,574,2026年预制菜KAP调查,https://zspz.cbpt.cnki.net/portal/journal/portal/client/paper/bac505878e3baef7e85fc1a6b8f0fbf0,依据论文公开摘要
+认知,客观认知相符率,59.9,%,574,2026年预制菜KAP调查,https://zspz.cbpt.cnki.net/portal/journal/portal/client/paper/bac505878e3baef7e85fc1a6b8f0fbf0,与主观认知率是不同指标
+告知,认为餐厅应提前告知,65.6,%,未披露,2023年江苏省消保委微调查,https://www.peopleapp.com/column/30035436573-500000488416,未找到公开样本量
+告知,反映餐厅未提前告知,78.1,%,未披露,2023年江苏省消保委微调查,https://www.peopleapp.com/column/30035436573-500000488416,受访者自述并非餐厅审计
+条件,安全健康,64.6,%,1767,2024年DT研究院调查多选题,https://www.scribd.com/document/929100979/2024-%E8%BD%BB%E4%BA%BA%E6%80%8E%E4%B9%88%E7%9C%8B%E9%A2%84%E5%88%B6%E8%8F%9C%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A,多选项不可相加
+条件,公开标注是预制菜,63.4,%,1767,2024年DT研究院调查多选题,https://www.scribd.com/document/929100979/2024-%E8%BD%BB%E4%BA%BA%E6%80%8E%E4%B9%88%E7%9C%8B%E9%A2%84%E5%88%B6%E8%8F%9C%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A,多选项不可相加
+条件,价格更低,37.2,%,1767,2024年DT研究院调查多选题,https://www.scribd.com/document/929100979/2024-%E8%BD%BB%E4%BA%BA%E6%80%8E%E4%B9%88%E7%9C%8B%E9%A2%84%E5%88%B6%E8%8F%9C%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A,多选项不可相加
+条件,不接受预制食品出现在这些场合,8.6,%,1767,2024年DT研究院调查多选题,https://www.scribd.com/document/929100979/2024-%E8%BD%BB%E4%BA%BA%E6%80%8E%E4%B9%88%E7%9C%8B%E9%A2%84%E5%88%B6%E8%8F%9C%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A,多选项不可相加
+场景,连锁快餐店接受,53.5,%,1767,2024年DT研究院调查场景题,https://www.scribd.com/document/929100979/2024-%E8%BD%BB%E4%BA%BA%E6%80%8E%E4%B9%88%E7%9C%8B%E9%A2%84%E5%88%B6%E8%8F%9C%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A,受访者态度非餐厅使用率
+场景,普通餐厅接受,28.4,%,1767,2024年DT研究院调查场景题,https://www.scribd.com/document/929100979/2024-%E8%BD%BB%E4%BA%BA%E6%80%8E%E4%B9%88%E7%9C%8B%E9%A2%84%E5%88%B6%E8%8F%9C%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A,受访者态度非餐厅使用率
+场景,高档餐厅接受,8.8,%,1767,2024年DT研究院调查场景题,https://www.scribd.com/document/929100979/2024-%E8%BD%BB%E4%BA%BA%E6%80%8E%E4%B9%88%E7%9C%8B%E9%A2%84%E5%88%B6%E8%8F%9C%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A,受访者态度非餐厅使用率
