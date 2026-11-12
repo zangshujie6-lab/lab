@@ -1,0 +1,13 @@
+{
+  "checked_at": "2026-11-12",
+  "formal_weibo_records": 0,
+  "formal_dianping_records": 0,
+  "test": {
+    "method": "collect_public.py; robots-first HTTPS fetch of two known public URLs; timeout 2 seconds",
+    "weibo_url": "https://weibo.com/1638782947/Q4nYKsWva",
+    "dianping_url": "https://www.dianping.com/review/1655228059",
+    "result": "Both failed before page retrieval because the local runtime could not resolve the hostnames (URLError Errno 8). No page text or comments were counted."
+  },
+  "additional_access": "No connected Weibo/Dianping tool or authorized bulk export available in this workspace.",
+  "chart_gate": "Part 02 Weibo–Dianping percentage comparison remains unpublished until audited records meet study.json criteria."
+}
