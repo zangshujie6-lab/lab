@@ -1,0 +1,33 @@
+[
+  {
+    "title": "Exploring public opinion on health effects of prepared dishes in China through social media comments",
+    "year": 2024,
+    "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1424690/full",
+    "platforms": ["微博", "今日头条", "小红书", "抖音", "快手", "哔哩哔哩"],
+    "period": "2022-07-13 至 2024-03-25",
+    "collected": 606470,
+    "analyzed": 200993,
+    "weibo_collected": 48021,
+    "weibo_analyzed": 18370,
+    "negative_share_all_platforms_pct": 64.11,
+    "interpretation": "64.11% 是六平台清洗后样本的算法情绪分类，不是微博单独比例，也不是消费者总体比例；研究聚焦健康影响。"
+  },
+  {
+    "title": "Unraveling public perceptions of prepared dishes across contexts: Word embedding approach on social media",
+    "year": 2026,
+    "url": "https://www.sciencedirect.com/science/article/pii/S1878450X26000107",
+    "platforms": ["微博"],
+    "period": "2018 至 2023",
+    "posts_analyzed": 229375,
+    "interpretation": "论文摘要称家庭场景总体较积极，堂食/外卖等餐饮场景更谨慎；该研究没有大众点评评价，也未公开本项目所需逐条帖子。"
+  },
+  {
+    "title": "预制菜公众认知与消费行为研究",
+    "year": 2026,
+    "url": "https://www.zgspws.com/zgspwszz/article/abstract/202604006?st=search",
+    "platforms": ["未在摘要中逐一列明的网络平台"],
+    "period": "2023-05 至 2024-06",
+    "comments_collected": 707155,
+    "interpretation": "摘要报告整体满意度 31.50%、购买意愿 36.76%；不是微博或大众点评的分别统计，也不是本项目的直接比较。"
+  }
+]
