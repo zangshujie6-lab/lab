@@ -1,0 +1,10 @@
+{
+  "status": "sampling_window_not_frozen",
+  "start_date": null,
+  "end_date": null,
+  "city": "北京",
+  "weibo_queries": ["预制菜", "预制菜知情权", "预制菜需不需要公开", "现炒", "料理包", "中央厨房"],
+  "dianping_restaurant_frame": "待冻结：北京餐厅及门店 ID 名单",
+  "minimum_verified_coded_per_platform": 1000,
+  "last_reviewed": "2026-11-12"
+}
