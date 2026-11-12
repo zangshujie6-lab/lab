@@ -54,7 +54,14 @@ class PageParser(HTMLParser):
 def get_robots(host, timeout):
     robots = robotparser.RobotFileParser()
     robots.set_url(f"https://{host}/robots.txt")
-    robots.read()
+    req = request.Request(robots.url, headers={"User-Agent": AGENT})
+    with request.urlopen(req, timeout=timeout) as response:
+        if response.status != 200:
+            raise ValueError(f"robots HTTP {response.status}")
+        body = response.read(200_001)
+        if len(body) > 200_000:
+            raise ValueError("robots exceeds 200 KB limit")
+    robots.parse(body.decode("utf-8", errors="replace").splitlines())
     return robots
 
 
